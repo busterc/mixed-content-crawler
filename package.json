@@ -4,7 +4,7 @@
   "license": "ISC",
   "author": "Buster Collings <busterc@gmail.com>",
   "repository": "busterc/mixed-content-crawler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "bin": "lib/cli.js",
   "files": [
