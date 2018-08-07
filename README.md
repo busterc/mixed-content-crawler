@@ -10,7 +10,7 @@ $ npm install mixed-content-crawler
 
 ## CLI Demo
 
-![mixed-content-crawler demo](demo.gif)
+![mixed-content-crawler demo](https://raw.githubusercontent.com/busterc/mixed-content-crawler/76d2c596/demo.gif)
 
 ## CLI Usage
 
