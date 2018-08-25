@@ -1,4 +1,4 @@
-# mixed-content-crawler [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# mixed-content-crawler [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 
 > Find mixed content errors on a site by crawling it with Puppeteer
 
@@ -69,3 +69,5 @@ ISC © [Buster Collings]()
 [daviddm-url]: https://david-dm.org/busterc/mixed-content-crawler
 [coveralls-image]: https://coveralls.io/repos/busterc/mixed-content-crawler/badge.svg
 [coveralls-url]: https://coveralls.io/r/busterc/mixed-content-crawler
+[greenkeeper-image]: https://badges.greenkeeper.io/busterc/mixed-content-crawler.svg
+[greenkeeper-url]: https://greenkeeper.io/
