@@ -1,5 +1,7 @@
 # mixed-content-crawler [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/busterc/mixed-content-crawler.svg)](https://greenkeeper.io/)
+
 > Find mixed content errors on a site by crawling it with Puppeteer
 
 ## Installation
