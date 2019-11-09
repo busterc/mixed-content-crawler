@@ -18,7 +18,7 @@
     "test": "jest --coverage"
   },
   "dependencies": {
-    "chalk": "^2.4.1",
+    "chalk": "^3.0.0",
     "crwlr": "^0.2.0",
     "meow": "^5.0.0",
     "puppeteer": "^1.6.2"
