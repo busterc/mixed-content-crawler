@@ -21,7 +21,7 @@
     "chalk": "^2.4.1",
     "crwlr": "^0.2.0",
     "meow": "^5.0.0",
-    "puppeteer": "^1.6.2"
+    "puppeteer": "^2.1.0"
   },
   "devDependencies": {
     "coveralls": "^3.0.0",
