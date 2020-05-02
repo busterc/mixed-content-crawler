@@ -20,7 +20,7 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "crwlr": "^0.2.0",
-    "meow": "^5.0.0",
+    "meow": "^6.1.1",
     "puppeteer": "^1.6.2"
   },
   "devDependencies": {
